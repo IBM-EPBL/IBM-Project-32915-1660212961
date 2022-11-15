@@ -1,0 +1,116 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+<meta name="viewport" content="width=device-width, initial-scale=1">  
+<style>  
+body{  
+  font-family: Calibri, Times New Roman, sans-serif;  
+
+}  
+  h1
+  {
+    color:white;
+  }
+.container { 
+ background:url("https://www.inovalon.com/wp-content/uploads/2019/01/Healthcare-Data-Analytics.jpg");
+  background-size:cover;
+ opacity:90%;
+    padding: 50px;  
+  
+}  
+  label
+  {
+    color:white;
+}
+input[type=text], input[type=password], textarea {  
+  width: 100%;  
+  padding: 15px;  
+  margin: 5px 0 22px 0;  
+  display: inline-block;  
+  border: none;  
+  background: #f1f1f1;  
+}  
+input[type=text]:focus, input[type=password]:focus {  
+  background-color:white;  
+  outline: none;  
+}  
+ div {  
+            padding: 10px 0;  
+         }  
+hr {  
+  border: 1px solid #f1f1f1;  
+  margin-bottom: 25px;  
+}  
+.registerbtn {  
+  color: black;  
+  padding: 16px 20px;  
+  margin: ;  
+  border: none;  
+  cursor: pointer;  
+  width: 100%;  
+  opacity: 0.9;  
+}  
+.registerbtn:hover {  
+  opacity: 1;  
+}  
+  #regbtn{
+    height:40px;
+  width:130px;
+    background:#08A332;
+    color:white;
+    font-weight:bold;
+  position:absolute;
+    left:50%;
+    border-radius:10px;
+    text-align:center;
+    margin:1px solid red;
+  }
+   #regbtn:hover
+  {
+    color:white;
+    background:#065C1D;
+    margin:1px solid white;
+  }
+  .option
+  {
+    color:white;
+}
+ 
+</style>  
+</head>  
+<body>  
+<form>  
+  <div class="container"> 
+  <center>  <h1>Registration Form</h1> </center>  
+  <hr>  
+  <label> First Name </label>   
+<input type="text" name="firstname" placeholder= "first name" size="15" required />   
+<label> Middle Name: </label>   
+<input type="text" name="middlename" placeholder="middle name" size="15" required />   
+<label> Last Name: </label>    
+<input type="text" name="lastname" placeholder="last name" size="15"required />   
+<div class="Option">  
+<label>    
+Gender :  
+</label><br>  <label>
+<input type="radio" value="Male" name="gender" checked > Male   
+<input type="radio" value="Female" name="gender"> Female   
+  <input type="radio" value="Other" name="gender"> Other  </label>
+  
+</div>  
+<label>   
+Phone :  
+</label>  
+<input type="text" name="country code" placeholder="Country Code"  value="+91" size="2"/>   
+<input type="text" name="phone" placeholder="phone no." size="10"/ required>   
+    <label><b>Current Address :  </b></label>
+<textarea cols="80" rows="5" placeholder="Current Address" value="address" required>  
+</textarea>  
+ <label for="Patient ID"><b>Patient ID</b></label>  
+ <input type="text" placeholder="Patient ID" name="Patient" required>
+<label for="administration No"><b>Administration No</b></label>  
+<input type="text" placeholder="administration No" name="Administration No" required>    
+    <button type="submit" id="regbtn" class="registerbtn">Register</button>    
+</form>  
+</body>  
+</html>  
