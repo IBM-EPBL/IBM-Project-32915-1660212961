@@ -15,21 +15,31 @@ Suppose you have been hired as Data Scientist of Health Man – a not for profit
 💻 Tech Stack
 
 Data Analysis with Python
+
 IBM Cloud
+
 IBM Watson
+
 IBM Cognos Analytics
+
 💡 Project Design and Planning
 
 Ideation Phase
+
 Project Design Phase I
+
 Project Design Phase II
+
 Project Planning Phase
+
 Project Development Phase
 
 👍 Social Impact
 
 Access to primary health care
+
 Less Casualty
+
 Transparency for all
 
 💰 Business Impact
