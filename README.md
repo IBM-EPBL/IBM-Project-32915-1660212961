@@ -4,8 +4,6 @@ Analytics for Hospitals' Health-Care Data
 IBM-Project-32915-1660212961
 
 
-![image](https://user-images.githubusercontent.com/105637337/202528835-7510c651-a335-42fe-a9cf-c5d707d7e14d.png)
-
 
 
 📝 Project Description
@@ -25,6 +23,10 @@ IBM Cloud
 IBM Watson
 
 IBM Cognos Analytics
+
+https://en.wikipedia.org/wiki/IBM_Watson
+
+
 
 💡 Project Design and Planning
 
