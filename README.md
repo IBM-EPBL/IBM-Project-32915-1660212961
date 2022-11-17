@@ -64,6 +64,6 @@ Team Id : PNT2022TMID44120
 @Rasika
 @Meenasri
 
-|| 🎓 VSB College Of Engineering And Technology ||
+|| 🎓 VSB College Of Engineering And Technical Campus ||
 
 
