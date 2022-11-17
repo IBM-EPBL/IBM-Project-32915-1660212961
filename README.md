@@ -34,7 +34,7 @@ Suppose you have been hired as Data Scientist of Health Man – a not for profit
 
 ## 💡 PROJECT DESIGN & PLANNING
  - [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-32915-1660212961/tree/main/Project%20Design%20and%20Planning/Ideation%20Phase)
- - [Project Design Phase I](https://github.com/IBM-EPBL/IBM-Project-32915-1660212961/tree/main/Project%20Design%20and%20Planning/Project%20%20Design%20Phase%202)
+ - [Project Design Phase I](https://github.com/IBM-EPBL/IBM-Project-32915-1660212961/tree/main/Project%20Design%20and%20Planning/Project%20Design%20Phase%201)
  - [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-32915-1660212961/tree/main/Project%20Design%20and%20Planning/Project%20%20Design%20Phase%202)
  - [Project Planning Phase](https://github.com/IBM-EPBL/IBM-Project-32915-1660212961/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
  - [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-32915-1660212961/tree/main/Project%20Development%20Phase)
