@@ -24,9 +24,6 @@ IBM Watson
 
 IBM Cognos Analytics
 
-https://en.wikipedia.org/wiki/IBM_Watson
-
-
 
 💡 Project Design and Planning
 
