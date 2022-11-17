@@ -33,7 +33,7 @@ Suppose you have been hired as Data Scientist of Health Man – a not for profit
  - [IBM Cognos Analytics](https://en.wikipedia.org/wiki/IBM_Cognos_Analytics)
 
 ## 💡 PROJECT DESIGN & PLANNING
- - [Ideation Phase]https://github.com/IBM-EPBL/IBM-Project-32915-1660212961/tree/main/Project%20Design%20and%20Planning/Ideation%20Phase
+ - [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-32915-1660212961/tree/main/Project%20Design%20and%20Planning/Ideation%20Phase)
  - [Project Design Phase I](https://github.com/IBM-EPBL/IBM-Project-32915-1660212961/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
  - [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-32915-1660212961/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II)
  - [Project Planning Phase](https://github.com/IBM-EPBL/IBM-Project-32915-1660212961/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
